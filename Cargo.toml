@@ -1,0 +1,6 @@
+[package]
+name = "print_uart"
+version = "0.1.0"
+description = "Security Camp 2024 S12 Step 2"
+keywords = ["seccamp", "security-camp"]
+edition = "2021"
